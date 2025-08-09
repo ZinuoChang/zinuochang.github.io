@@ -3,7 +3,6 @@
     "name": "Zinuo Chang",
     "label": "MS ECE @ Georgia Tech",
     "email": "zchang40@gatech.edu",
-    "url": "https://alshedivat.github.io/al-folio/",
     "location": {
       "postalCode": "GA 30339",
       "city": "Atlanta",
@@ -23,7 +22,6 @@
   "education": [
     {
       "institution": "Georgia Institute of Technology",
-      "location": "Atlanta, Georgia",
       "area": "Electrical and Computer Engineering",
       "studyType": "Master of Science",
       "startDate": "2023-08",
@@ -31,7 +29,6 @@
     },
     {
       "institution": "Zhejiang University",
-      "location": "Hangzhou, China",
       "area": "Ocean Engineering and Technology",
       "studyType": "Bachelor of Engineering",
       "startDate": "2019-09",
