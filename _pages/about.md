@@ -27,12 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-**contact:** <b><mailto: zchang40@gatech.edu></b>
+**Contact:** [zchang40@gatech.edu](mailto:zchang40@gatech.edu)
 
-Welcome! I am a second year MSECE Student at [Georgia Tech](https://www.gatech.edu/), advised by Prof. [Yongxin Chen](https://yongxin.ae.gatech.edu/). My research focuses on Risk‐aware Stochastic Planning and Control. I'm also exploring intelligent robotic systems via learning. Before coming to Georgia Tech, I obtained my Bachelor of Engineering in Ocean Engineering and Technology from [Zhejiang University (ZJU)](https://www.zju.edu.cn/)
+Welcome! I am a second year MSECE Student at [Georgia Tech](https://www.gatech.edu/), advised by Prof. [Yongxin Chen](https://yongxin.ae.gatech.edu/). Before coming to Georgia Tech, I obtained my Bachelor of Engineering in Ocean Engineering and Technology from [Zhejiang University (ZJU)](https://www.zju.edu.cn/).
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research focuses on stochastic motion planning and control under uncertainty, and I am also exploring machine learning methods for motion planning. More broadly, I am interested in the intersection of optimization and learning, with the goal of developing robust and intelligent robotic systems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+**Connect:** [Github](https://github.com/ZinuoChang) · [Linkedin](https://www.linkedin.com/in/zinuochang)
